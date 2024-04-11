@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi Guys,👈 I'm Huy</h1>
 - 🔭 I’m currently studying at **PTIT**
 
