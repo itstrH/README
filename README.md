@@ -1,7 +1,5 @@
 <h1 align="center">Hi Guys,👈 I'm Huy</h1>
-- 🔭 I’m currently studying at **PTIT**
-
-<h3 align="left">Connect with me:</h3>
+🔭 I’m currently studying at PTIT
 <p align="left">
 </p>
 
