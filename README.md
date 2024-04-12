@@ -1,5 +1,5 @@
 <h1 align="center">Hi Guys,👈 I'm Huy</h1>
-<font> I’m currently studying at  <strong>PTIT</strong> </font>
+<h3> I’m currently studying at  <strong>PTIT</strong> </h3>
 <p align="left">
 </p>
 
