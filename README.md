@@ -1,7 +1,7 @@
 <h1 align="center">Hi Guys,👈 I'm Huy</h1>
 <h3 align="left"> 
   I’m currently studying at:
-    <p>
+    <p align="left">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_PTIT.jpg"c alt="ptit logo" width="40" height="40">
     </p>
 </h3>
