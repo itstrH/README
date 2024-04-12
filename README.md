@@ -1,6 +1,6 @@
 <h1 align="center">Hi Guys,👈 I'm Huy</h1>
 <h3> 
-  I’m currently studying at  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_PTIT_University.png/2048px-Logo_PTIT_University.png"c alt="ptit logo" width="40" height="40">
+  I’m currently studying at  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_PTIT.jpg"c alt="ptit logo" width="30" height="30">
 </h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
