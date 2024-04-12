@@ -1,8 +1,5 @@
 <h1 align="center">Hi Guys,👈 I'm Huy</h1>
 <h3> I’m currently studying at  <strong>PTIT</strong> </h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
