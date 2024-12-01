@@ -1,4 +1,4 @@
-<div style="text-align: left; color: blue;">
+<div style="text-align: left; color: blue; border-bottom: 2px solid #FFF;">
 <h1>Hi Guys,👈 I'm Huy</h1>
 </div>
 <div style="display: block;">
@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40"/> 
   </div>
-  <h3>Tools</h3> 
+  <h3>Tools:</h3> 
   <div>
     <p align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="javascript" width="40" height="40"/> 
